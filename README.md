@@ -1,2 +1,11 @@
-# debian-change-repo
-A script for changing repo in Debian/Ubuntu/Armbian 换源脚本
+# Debian/Ubuntu/Armbian 换源脚本
+适用于 Debian/Ubuntu/Armbian 的换源脚本，正在~~咕咕咕~~制作中！
+### 为啥想写这个呢？
+总有些人喜欢给香橙派重装 Armbian 系统，万不得已才做出这玩意！
+### 这里有啥功能呢？
+ - 给 Debian/Ubuntu/Ubuntu Ports 更换国内主流镜像源（清华、中科大、阿里等）
+ - 如果可能，给 `pip` 也换上国内主流镜像源（清华、豆瓣、阿里等）
+### 啥时候写出来呢？
+要看自己最近血压高不高和会不会咕咕咕了……
+### 授权
+本脚本将会使用 MIT 协议授权。
