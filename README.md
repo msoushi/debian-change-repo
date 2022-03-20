@@ -1,7 +1,7 @@
 # Debian/Ubuntu/Armbian 换源脚本
 适用于 Debian/Ubuntu/Armbian 的换源脚本，正在~~咕咕咕~~制作中！
 ### 为啥想写这个呢？
-很多人出于各种各样的原因~~（翻车了想remake）~~会给香橙派/树莓派/电脑重装 Ubuntu/Debian/Armbian 系统，但是重装系统后不知道怎么进行更换镜像源的操作。
+很多人出于各种各样的原因会给香橙派/树莓派/电脑重装 Ubuntu/Debian/Armbian 系统，但是重装系统后不知道怎么进行更换镜像源的操作。
 ### 这里有啥功能呢？
  - 给 Debian/Ubuntu/Armbian 更换国内主流镜像源（清华、中科大、阿里等）
  - 如果可能，给 `pip` 也换上国内主流镜像源（清华、豆瓣、阿里等）
